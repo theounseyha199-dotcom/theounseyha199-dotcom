@@ -1,29 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:00e5ff&height=240&section=header&text=SeyHa.exe&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e52521,50:b81d1a,100:fbd214&height=220&section=header&text=MARIO.EXE%20//%20SEYHA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Fullstack+Developer;🌌+Architecting+Scalable+Web+Systems;🚀+Clean+Code+%7C+Premium+UI+%7C+DevOps;🤖+Welcome+to+the+Core+Network" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&color=FBD214&center=true&vCenter=true&width=800&lines=🍄+WELCOME+TO+WORLD+1-1;🌟+FULLSTACK+DEVELOPER+LEVEL:+99;🔥+POWERING+UP+WEB+SYSTEMS;👾+THANK+YOU+SEYHA!+BUT+OUR+PRINCESS+IS...%20" />
 
 <br/>
 
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-00ffcc?style=for-the-badge&logo=opsgenie&logoColor=00ffcc)](#)
-[![Location](https://img.shields.io/badge/LOCATION-CAMBODIA-8A2BE2?style=for-the-badge&logo=mapmarker&logoColor=8A2BE2)](#)
-[![Visitors](https://komarev.com/ghpvc/?username=seyha&label=SYSTEM+ACCESSES&color=00F7FF&style=for-the-badge)](#)
+[![Player](https://img.shields.io/badge/PLAYER-SEYHA-e52521?style=press-start-2p&style=for-the-badge&logo=nintendo&logoColor=white)](#)
+[![World](https://img.shields.io/badge/WORLD-CAMBODIA-00a2e8?style=for-the-badge&logo=supermario&logoColor=white)](#)
+[![Lives](https://img.shields.io/badge/LIVES-❤❤❤-43b047?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 🛰️ SYSTEM ARCHITECTURE
+## 🎮 CHARACTER SELECT
 
 ```yaml
-identity:
+character_stats:
   name: Theoun Seyha
-  role: Fullstack Developer
-  location: Phnom Penh, Cambodia 🇰🇭
-  mindset: "Write clean code. Build premium UI. Scale efficiently."
-
-status:
-  current_mode: ACTIVE_BUILDER
-  focus: ["Distributed Systems", "UI/UX Engineering", "API Optimization"]
-  os: "Arch Linux"
+  class: Fullstack Architect
+  current_power_up: Fire_Flower 🔥
+  special_move: "Clean Code Combo"
+  current_quest: "Building the ultimate web ecosystem"
