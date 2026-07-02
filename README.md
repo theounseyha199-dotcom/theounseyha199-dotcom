@@ -1,50 +1,93 @@
-# Hi there, I'm Theoun Seyha (Beru) 👋 
-### Full-Stack Developer & Student 🚀
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Cambodia-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Role-Student%20%26%20Developer-orange?style=flat-square" alt="Role" />
+# 🍄 Welcome to Beru’s World! 🎮
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" width="250" />
 </p>
+
+<h1 align="center">It's-a me, Beru! 👋</h1>
+<h3 align="center">Full-Stack Adventurer | Student | Code Explorer 🚀</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-Up%20Mode-ON-red?style=for-the-badge&logo=nintendo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Cambodia-green?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
 ---
-## 💫 About Me
-I am a passionate Full-Stack Developer currently balancing my time as a student while building modern web applications. I love diving deep into backend architectures and bringing seamless user interfaces to life.
-- 🔭 **Current Focus:** Leveling up my skills as a student and software developer.
-- 🌱 **Learning Journey:** Actively exploring advanced system design patterns and cloud architecture.
-- 💬 **Let's Talk About:** Java, React, TypeScript, database optimization, or tech in general!
-- 📫 **Reach Me:** [theounseyha199@gmail.com](mailto:theounseyha199@gmail.com)
+
+## 🎯 Player Info
+
+🕹️ **Name:** Theoun Seyha (Beru)
+🍄 **Class:** Developer
+🌍 **Spawn Point:** Cambodia
+⭐ **Mission:** Building cool things and surviving university
+🔥 **Power-Up:** Coffee + Late Night Coding
+🎮 **Side Quest:** Learning new things every day
+
 ---
-## 🛠️ Languages and Tools
-### 🌐 Frontend & Design
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,figma" />
-  </a>
-</p>
-### ⚙️ Backend & Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,mongodb,mysql,postgres,kafka,firebase" />
-  </a>
-</p>
-### 🔧 DevOps & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,postman" />
-  </a>
-</p>
+
+## 🏰 About Me
+
+Welcome to my coding kingdom!
+I'm a student and developer who enjoys building projects, solving bugs, and exploring new worlds in software development.
+
+Like Mario collecting stars ⭐, I collect knowledge and experience one project at a time.
+
+💡 I enjoy:
+
+* Building creative projects
+* Learning system design
+* Exploring backend logic
+* Making fun and smooth user experiences
+* Turning ideas into reality
+
 ---
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=visual_studio_dark" alt="Seyha's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=visual_studio_dark" alt="Top Langs" height="180px" />
-</p>
+
+## 🎮 Current Quest
+
+```txt
+🎯 Main Mission:
+Complete university while becoming a stronger developer
+
+🛡️ Side Missions:
+- Build awesome projects
+- Learn advanced architecture
+- Improve problem-solving skills
+- Defeat bugs 👾
+```
+
 ---
-## 🤝 Connect with me
-*Replace the links below with your actual social media profile URLs:*
-<p align="left">
-  <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-  <a href="https://linkedin.com/in/your-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://dev.to/your-username" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="devto" /></a>
-  <a href="https://stackoverflow.com/users/your-id" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" /></a>
-</p>
+
+## 🪙 Fun Facts
+
+🍕 Pizza fuels my coding
+🌙 Most productive at night
+🐛 Bugs fear me (sometimes)
+🎵 Music makes coding better
+🚀 Always chasing the next level
+
 ---
-<p align="center">⭐️ Welcome to my profile! Feel free to check out my repositories and reach out for collaborations. </p> desgin style to look better mario concept
+
+## 🏆 Achievement Board
+
+🏅 Completed multiple web projects
+🏅 Built healthcare systems
+🏅 Designed dashboards
+🏅 Survived debugging at 3 AM
+🏅 Still learning, still growing
+
+---
+
+## 🌟 Secret Warp Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
+
+*"Every bug is just another boss fight."* 🎮
+
+---
+
+<p align="center">
+✨ Thanks for visiting my world!  
+Press ⭐ to continue the adventure.
+</p>
