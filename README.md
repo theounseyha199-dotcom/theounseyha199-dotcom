@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">It's-a me, Beru! 👋</h1>
-<h3 align="center">Full-Stack Adventurer | Student | Code Explorer 🚀</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Level-Up%20Mode-ON-red?style=for-the-badge&logo=nintendo&logoColor=white"/>
