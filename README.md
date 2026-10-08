@@ -1,92 +1,186 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Theoun%20Seyha&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Developer%20%7C%20Student%20%7C%20Builder&descAlignY=58&descSize=18)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:14B8A6&text=Theoun%20Seyha&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Student%20%7C%20Builder&descAlignY=58&descSize=18"/>
 
-### Hi, I'm Beru
+### 👋 Hi, I'm **Seyha** — also known as **Beru**
 
-I build practical web experiences, backend systems, and clean interfaces while growing through university, projects, and late-night debugging.
+**Building useful products • Learning deeply • Improving every day**
 
 <p>
-  <img src="https://img.shields.io/badge/Location-Cambodia-14b8a6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Cambodia" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563eb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus: Full-Stack Development" />
-  <img src="https://img.shields.io/badge/Mode-Learning%20Every%20Day-0f172a?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning Every Day" />
+  <img src="https://img.shields.io/badge/📍_Cambodia-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-2563EB?style=for-the-badge&logo=stackblitz&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to_Learning-14B8A6?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=theounseyha199&label=Profile%20Views&color=2563eb&style=flat-square" />
+
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm **Theoun Seyha**, also known as **Beru**. I'm a student and developer from Cambodia who enjoys turning ideas into useful software.
+I'm **Theoun Seyha**, a developer and university student from Cambodia who enjoys turning ideas into practical software.
 
-I care about building projects that feel smooth to use, are simple to maintain, and solve real problems. My current path is focused on becoming stronger across both frontend experience and backend architecture.
+I like working across both **Frontend** and **Backend**, from building clean user interfaces to designing APIs, authentication flows, databases, and application architecture.
 
-```txt
-Current mission
-Learn deeply, build consistently, and become a sharper developer.
+My goal is not only to make software work — I want to understand **why it works, how it scales, and how to make it better**.
+
+```ts
+const seyha = {
+  name: "Theoun Seyha",
+  nickname: "Beru",
+  location: "Cambodia 🇰🇭",
+  role: "Full-Stack Developer",
+  interests: [
+    "Web Development",
+    "Backend Architecture",
+    "System Design",
+    "UI/UX",
+    "Problem Solving"
+  ],
+  currentMission: "Learn deeply. Build consistently. Improve every day."
+};
 ```
 
-## What I Enjoy Building
+---
 
-| Area | What I Like Working On |
-| --- | --- |
-| Web Apps | Clean interfaces, dashboards, and interactive user experiences |
-| Backend Logic | APIs, data flow, authentication, and system behavior |
-| Product Thinking | Turning rough ideas into usable, polished features |
-| Problem Solving | Debugging, architecture, and improving how things work |
+## 🚀 What I'm Focused On
 
-## Tech Stack
+- 🧠 Improving **Backend Architecture** and **System Design**
+- ⚡ Building modern and responsive **Web Applications**
+- 🔌 Designing clean and maintainable **REST APIs**
+- 🔐 Learning more about **Authentication & Authorization**
+- 🗄️ Improving my knowledge of **Databases & Data Modeling**
+- 🧩 Understanding scalable and maintainable software architecture
+- 🛠️ Building real-world projects instead of only following tutorials
 
-<div align="center">
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111827)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-## Current Goals
-
-- Complete university while building stronger real-world projects.
-- Improve backend architecture, API design, and system design fundamentals.
-- Build better dashboards, workflows, and user experiences.
-- Practice consistent problem solving through projects and debugging.
-
-## Highlights
-
-- Built multiple web projects.
-- Worked on healthcare-related systems.
-- Designed dashboards and structured interfaces.
-- Comfortable learning through hands-on implementation.
-
-## GitHub Snapshot
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theounseyha199&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+### Frontend
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theounseyha199&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python&theme=dark" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux&theme=dark" />
 
 </div>
 
-## Quote
+---
 
-> Every bug is a chance to understand the system better.
+## 💡 What I Enjoy Building
+
+| Area | What I Work On |
+| :--- | :--- |
+| 🌐 **Web Applications** | Modern, responsive and interactive user experiences |
+| ⚙️ **Backend Systems** | APIs, business logic, authentication and data flow |
+| 📊 **Dashboards** | Clean interfaces for managing and visualizing information |
+| 🔐 **Authentication** | Secure login, authorization and user management |
+| 🗄️ **Database Systems** | Data modeling, relationships and application persistence |
+| 🧠 **Architecture** | Maintainable project structures and system design |
+| 🐛 **Problem Solving** | Debugging issues and understanding systems deeply |
+
+---
+
+## 🎯 Current Goals
+
+```text
+01. Finish university with strong practical experience
+02. Become stronger in backend and software architecture
+03. Build production-quality full-stack applications
+04. Improve system design and database knowledge
+05. Write cleaner, maintainable and scalable code
+06. Keep learning by building real projects
+```
+
+---
+
+## ✨ Highlights
+
+- 🚀 Built multiple full-stack web projects
+- 🏥 Worked on healthcare-related systems
+- 📊 Designed dashboards and structured user interfaces
+- 🔌 Built and integrated REST APIs
+- 🐛 Comfortable debugging and solving technical problems
+- 📚 Continuously learning through hands-on development
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theounseyha199&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theounseyha199&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=theounseyha199&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theounseyha199&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🧠 Developer Mindset
+
+> **Build things. Break things. Understand why they broke. Build them better.**
+
+I believe becoming a better developer comes from continuously combining:
+
+**Learning → Building → Debugging → Understanding → Improving**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning new technologies, building useful projects, and connecting with other developers.
+
+<div align="center">
+
+<a href="https://github.com/theounseyha199">
+  <img src="https://img.shields.io/badge/GitHub-theounseyha199-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting
+### 💻 Code • Learn • Build • Repeat
 
-If you like what I'm building, feel free to explore my projects and follow the journey.
+<sub>Thanks for visiting my profile 🚀</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14b8a6,50:2563eb,100:0f172a)
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:2563EB,100:0F172A"/>
 
 </div>
